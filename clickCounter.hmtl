@@ -1,0 +1,37 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <title>Clicking Counter</title>
+        <link rel = 'stylesheet' href = 'styles.css'>
+    </head>
+    
+    <body>
+        <div id = 'divStyle'>
+            <h3>Other Button Filled Things (in the form of a line of BUTTONS)</h3>
+            <hr>
+            
+            <a href = 'index.html' class = 'button buttonStyle'>Home</a>
+            <a href = 'buttonClicker.html' class = 'button buttonStyle'>Button Clicker</a>
+        </div>
+        
+        <div id = 'divStyle'>
+            <h1 id = 'output1'>?</h1>
+            <h1 id = 'output2'>?</h1>
+            
+            <button id = 'button1' class = 'buttonStyle'>Click me!</button>
+            
+            <hr>
+            
+            <h3>Collected Achievements:</h3>
+            
+            <p id = 'a1'>?</p>
+            <p id = 'a2'>?</p>
+            <p id = 'a3'>?</p>
+            <p id = 'a4'>?</p>
+            <p id = 'a5'>?</p>
+            <p id = 'a6'>?</p>
+        </div>
+        
+        <script src = 'clickerCounter.js'></script>
+    </body>
+</html>
