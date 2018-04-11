@@ -3,7 +3,19 @@ p {
     font-size: 18px;
 }
 
+ul {
+    list-style-type: none;
+    
+    column-count: 2;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+}
+
 .header {
+	text-align: center;
+}
+
+.center {
 	text-align: center;
 }
 
@@ -76,8 +88,4 @@ p {
     margin-right: 10%;
     
 	font-family: Arial, Helvetica, sans-serif;
-}
-
-.center {
-	text-align: center;
 }
