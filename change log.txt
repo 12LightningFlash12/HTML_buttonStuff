@@ -1,1 +1,12 @@
-asdf
+Button Stuff Change Log:
+
+-v1.0
+ -initial version
+ -add 1 to 1,000 buttons, and cost output text
+ -cost for the modifiers, is multiplied by a factor of 1.2
+ -total click counter
+ -Button points counter
+ -total Button Points counter
+ -total coursors counter
+ -alerts when a user can or can't buy a specific modifyer (cursors)
+ 
